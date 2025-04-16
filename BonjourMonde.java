@@ -3,6 +3,6 @@ public class BonjourMonde {
         System.out.println("Bonjour, tous le monde !");
     
 
-        System.out.println("première version pushed par le Scrum Master");
+        System.out.println("deuxieme version pushed par le Developpeur");
     }
 }
